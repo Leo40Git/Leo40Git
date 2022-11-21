@@ -8,7 +8,7 @@ Hello, I'm Leo. 22, 🇮🇱, pronouns are he/him.
 
 #### Places I'm in:
 - **Discord:** ADudeCalledLeo#8665
-- **Mastodon:** <a rel="me" href="https://tech.lgbt/@ADudeCalledLeo">@ADudeCalledLeo@<!--(suppress mailto link)-->tech.lgbt</a>
+- **Mastodon:** [@ADudeCalledLeo@tech.lgbt](https://tech.lgbt/@ADudeCalledLeo)
 - **Modrinth:** https://modrinth.com/user/ADudeCalledLeo
 - **Twitter (regrettably):** https://twitter.com/ADudeCalledLeo
 - **CurseForge (for now):** https://www.curseforge.com/members/adudecalledleo
