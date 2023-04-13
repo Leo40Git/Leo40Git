@@ -1,7 +1,7 @@
 ### Hello world!
 
 You've arrived in the Semi-Existent Domain.  
-Hello, I'm Leo. 24, 🇮🇱, pronouns are he/him.
+Hello, I'm Leo. 24, 🇮🇱, pronouns are he/they.
 
 #### Things I do:
 - Contribute to the [QuiltMC project](https://github.com/QuiltMC)! (mainly [QSL](https://github.com/QuiltMC/quilt-standard-libraries))
