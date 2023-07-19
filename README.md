@@ -3,13 +3,10 @@
 You've arrived in the Semi-Existent Domain.  
 Hello, I'm Leo. 24, 🇮🇱, pronouns are he/they.
 
-#### Things I do:
-- Contribute to the [QuiltMC project](https://github.com/QuiltMC)! (mainly [QSL](https://github.com/QuiltMC/quilt-standard-libraries))
-- [Make Minecraft mods](https://github.com/ModsByLeo), [and also APIs](https://github.com/SpeedbridgeMC)
-
 #### Places I'm in:
 - **Discord:** ADudeCalledLeo#8665
 - **Mastodon:** [@ADudeCalledLeo@tech.lgbt](https://tech.lgbt/@ADudeCalledLeo)
+- **Cohost:** https://cohost.org/ADudeCalledLeo
 - **Tumblr:** https://a-dude-called-leo.tumblr.com
 - **Twitter (regrettably):** https://twitter.com/ADudeCalledLeo
 - **Modrinth:** https://modrinth.com/user/ADudeCalledLeo
