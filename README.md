@@ -1,7 +1,7 @@
 ### Hello world!
 
 You've arrived in the Semi-Existent Domain.  
-Hello, I'm Leo. 24, 🇮🇱, pronouns are he/they.
+Hello, I'm Leo. 26, 🇮🇱, pronouns are he/they.
 
 #### Places I'm in:
 - **Discord:** ADudeCalledLeo#8665
